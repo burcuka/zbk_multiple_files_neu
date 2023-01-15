@@ -1,3 +1,0 @@
-define view entity buffer on Zbk_TEST_DDLS
-  layer core
-  type full
